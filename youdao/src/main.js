@@ -1,4 +1,4 @@
-import axios from 'axios'
+import axios from 'axios';
 import {writeFile} from 'fs/promises';
 import crypto from 'node:crypto';
 import {stringify} from 'node:querystring';
